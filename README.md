@@ -1,5 +1,5 @@
 # nethereum.com
-The project website
+The project website, thanks to Eva Shon!
 
 ## Contributing
 
